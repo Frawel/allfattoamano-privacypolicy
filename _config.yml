@@ -1,6 +1,4 @@
-theme: jekyll-theme-leap-day
+#theme: jekyll-theme-leap-day
 github:
   is_project_page: true
-author:
-  name:       
-  url:        
+       
